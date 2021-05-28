@@ -1,0 +1,21 @@
+{
+  "name": "mock-my-db",
+  "version": "1.0.0",
+  "description": "This package will help UI developers to mock their data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db": "nodemon server.js"
+  },
+  "author": "nimish chandola",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "vue": "^2.6.12",
+    "vue-server-renderer": "^2.6.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

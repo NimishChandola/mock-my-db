@@ -1,0 +1,14 @@
+{
+    "services": {
+        "/service/data/for/me":[{
+            "data": {"person": 5, "standard": "top1"}
+        },{
+            "data": {"person": 5, "standard": "top2"}
+        }],
+        "/service/data/for/you":[{
+            "data": {"person": 5, "standard": "top3"}
+        },{
+            "data": {"person": 5, "standard": "top4"}
+        }]
+    }
+}
